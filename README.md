@@ -7,9 +7,30 @@ Requires pictures to be in the “Images” folder.
 
 All files need to be in the same folder
 
-#Installation
+# Installation
 1.	Download files onto your desktop
 
 a.	Make sure all files are in the same folders
 
 2.	Open file using any browser (works best on Microsoft Edge)
+
+# Features
+HTML:
+
+•	Uses bootstrap for making the cards and buttons
+
+•	Each webpage recommends a certain activity to play, do,  or watch while at home
+
+
+CSS:
+
+•	Adds padding, margin, and color to webpages
+
+•	Movies & TV Shows.css file helps built the slideshow
+
+
+JavaScript:
+
+•	Function changeBgColor changes background color on cards on mouse hover
+
+•	Functions in slideshow.js (function plusSides(n), currentSlide(n), showSlides(n)) are used to create the slideshow on Movies & TV Shows webpage
