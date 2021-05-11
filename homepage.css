@@ -1,0 +1,30 @@
+body {
+  background-image: url("Images/world.jfif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  opacity: 0.85;
+}
+
+article {
+  margin: 15px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.88;
+}
+
+article p {
+ margin-left: 2%;
+}
+
+section {
+  padding: 15px 18px 15px;
+}
+
+.card {
+  border-style: double;
+  border-width: 20px;
+  background-color: #ffffff;
+  margin: 40px 75px;
+  border-radius: 12%;
+}
