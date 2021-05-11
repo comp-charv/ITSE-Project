@@ -4,5 +4,12 @@ An article written using HTML, CSS, and JavaScript that helps people in quaranti
 
 # Prerequisites
 Requires pictures to be in the “Images” folder.
- 
- All files need to be in the same folder.
+
+All files need to be in the same folder
+
+#Installation
+1.	Download files onto your desktop
+
+a.	Make sure all files are in the same folders
+
+2.	Open file using any browser (works best on Microsoft Edge)
